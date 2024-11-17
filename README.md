@@ -1,4 +1,3 @@
-## Abstract
 This Java program is a simple contact manager that allows users to add contacts, view all contacts, search for a contact by name, and exit the program. It utilizes serialization to save and load contacts to/from a file named "contacts.dat."
 
 Let's go through the main components and the flow of the program:
